@@ -9,7 +9,7 @@ class Home extends Component {
   	  <Router>
   	  <div>
   	  <Route exact path="/" component={App} />	
-  	  <Route path ='/Productdeatil' component={Productdeatil} />
+  	  <Route path ="/Productdeatil" component={Productdeatil} />
   	  </div>
   	  </Router>
   	);

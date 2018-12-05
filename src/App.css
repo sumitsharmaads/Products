@@ -31,6 +31,23 @@
 .Product table {
   margin-left:10px;
 }
+
+.fix {
+  margin:50px 300px;
+}
+
+.left {
+  position:relative;
+  bottom:250px;
+  margin-left: 200px;
+}
+
+.right {
+  position:relative;
+  bottom:250px;
+  right:100px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
